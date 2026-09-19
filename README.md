@@ -1,6 +1,6 @@
 # movie-watchlist
 
-A responsive web application for managing your movie watchlist using the OMDb API.
+A responsive web application for managing your movie watchlist.
 
 # Features
 
